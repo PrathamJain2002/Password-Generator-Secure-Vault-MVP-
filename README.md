@@ -49,12 +49,14 @@ A privacy-first password manager built with Next.js, TypeScript, and MongoDB. Al
    cp .env.example .env.local
    ```
    
-   Edit `.env.local` with your values:
+   Create `.env.local` with your values:
    ```env
    MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/password-vault
    JWT_SECRET=your-super-secret-jwt-key-here
    NEXTAUTH_URL=http://localhost:3000
    ```
+   
+   **⚠️ Important:** Replace the placeholder values with your actual credentials. Never commit real credentials to version control!
 
 4. **Set up MongoDB Atlas**
    - Create a new cluster at [MongoDB Atlas](https://www.mongodb.com/atlas)
