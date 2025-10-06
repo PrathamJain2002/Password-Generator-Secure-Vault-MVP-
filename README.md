@@ -148,7 +148,7 @@ A privacy-first password manager built with Next.js, TypeScript, and MongoDB. Al
 |----------|-------------|---------|
 | `MONGODB_URI` | MongoDB connection string | `mongodb+srv://user:pass@cluster.mongodb.net/db` |
 | `JWT_SECRET` | Secret key for JWT signing | `your-super-secret-key-here` |
-| `NEXTAUTH_URL` | Application URL | `https://your-app.vercel.app` |
+| `NEXTAUTH_URL` | Application URL | `https://password-generator-secure-vault-mvp-iota.vercel.app` |
 
 ## 🔒 Security Considerations
 
