@@ -35,7 +35,7 @@ A privacy-first password manager built with Next.js, TypeScript, and MongoDB. Al
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PrathamJain2002/Password-Generator-Secure-Vault-MVP-.git
    cd password-vault
    ```
 
